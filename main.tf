@@ -65,7 +65,7 @@ resource "aws_instance" "tf-web-server" {
     
     cd /home/ubuntu/
     
-    git clone https://github.com/sergiojdp/tictactoe.git
+    git clone https://github.com/yaelitamb/tic-tac-toegame.git
     
     cd /home/ubuntu/tictactoe/frontend
     docker build -t myfrontend:v1 -t myfrontend:latest .
