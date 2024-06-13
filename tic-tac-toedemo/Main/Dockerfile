@@ -2,7 +2,7 @@
 FROM nginx:alpine
 
 # Copy the contents of the src folder into the Nginx default public directory
-COPY ./tic-tac-toedemo/Main/src /usr/share/nginx/html
+COPY ./src /usr/share/nginx/html
 
 # Expose port 80 (default HTTP port)
 EXPOSE 80
