@@ -69,8 +69,8 @@ resource "aws_instance" "tf-web-server" {
     
     cd /home/ubuntu/tic-tac-toegame/tic-tac-toedemo/Main
 
-    docker build -t myfrontend:v1 -t myfrontend:latest .
-    docker run --name front -p 80:80 myfrontend
+    sudo docker build -t myfrontend:v1 -t myfrontend:latest .
+    sudo docker run --name front -p 80:80 myfrontend
     #docker build -t ttt_prueba:latest .
     #docker run -d -p 8081:3000 ttt_prueba:latest
     
