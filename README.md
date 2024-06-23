@@ -8,6 +8,10 @@ This is my first time using anything related to cloud, instances or terraform. M
 A VPC (virtual private cloud) to work on, in this case Cloud9 with my environment created. An EC2 instance that runs the terraform with a Docker image as it was impossible for me to separate between backend and frontend. It is also configured the SSh to allow the external access to the EC2 instance and all dependencies like Docker and Nginx.
 
 # Preview
+![Captura de pantalla 2024-06-23 223251](https://github.com/yaelitamb/tic-tac-toegame/assets/125252183/5de0a913-e77a-4b1c-9eba-bc912a9652a0)
+
+![image](https://github.com/yaelitamb/tic-tac-toegame/assets/125252183/424a71aa-12e3-4f47-aecd-c4adb649f145)
+
 
 # Reflections
 
