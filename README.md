@@ -10,7 +10,8 @@ A VPC (virtual private cloud) to work on, in this case Cloud9 with my environmen
 # Preview
 ![Captura de pantalla 2024-06-23 223251](https://github.com/yaelitamb/tic-tac-toegame/assets/125252183/5de0a913-e77a-4b1c-9eba-bc912a9652a0)
 
-![image](https://github.com/yaelitamb/tic-tac-toegame/assets/125252183/424a71aa-12e3-4f47-aecd-c4adb649f145)
+![image](https://github.com/yaelitamb/tic-tac-toegame/assets/125252183/55ab12b8-e328-48f4-98a8-560522f5ab3d)
+
 
 
 # Reflections
